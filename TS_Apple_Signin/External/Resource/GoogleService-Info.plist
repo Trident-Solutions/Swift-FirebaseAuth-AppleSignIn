@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>153698043040-mk4o7qb3oj64l056fjc6dnqpr1beomm7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.153698043040-mk4o7qb3oj64l056fjc6dnqpr1beomm7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJo6kLT1l5iAaPSQZh0_HLDYsjPK_miCw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>153698043040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MobilityMinds.RightIn.TS-Apple-Signin</string>
+	<key>PROJECT_ID</key>
+	<string>tsapplesignin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tsapplesignin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:153698043040:ios:3e1cf9269e8586795235c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://tsapplesignin.firebaseio.com</string>
+</dict>
+</plist>
